@@ -37,7 +37,7 @@ const HomeLayout = () => {
       >
         {movies &&
           movies
-            .slice(0, 4)
+            .slice(0, 3)
             .map((movie, index) => (
               <CradLayout
                 id={movie._id}
