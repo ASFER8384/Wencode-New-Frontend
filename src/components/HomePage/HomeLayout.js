@@ -30,7 +30,7 @@ const HomeLayout = () => {
       <Box
         gap={5}
         margin="auto"
-        width="80%"
+        width="100%"
         flexWrap={"wrap"}
         display="flex"
         justifyContent={"center"}
